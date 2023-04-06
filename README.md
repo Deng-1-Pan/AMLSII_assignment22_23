@@ -19,7 +19,8 @@ Special thanks to the Kagglers who participated in the Airbus Vessel Detection C
 
 ## How to download dataset
 Open the terminal and type:
-```pip install kaggle```\\
+```pip install kaggle```
+
 Once installed, type:
 ```kaggle datasets download -d panlogic/ship-data -p ./ship-data```
 
