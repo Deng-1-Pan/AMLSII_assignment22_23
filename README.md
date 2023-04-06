@@ -29,3 +29,13 @@ Once installed, type:
 - image_for_report: Generate the images used in my report
 - ship_detection_initial_train: The main Notebook contain the main content
 - ship_detection_with_pretrained: The Notebook which is easy for checking the performence of pretrained model
+
+## Some Results
+### Learning and metric curve
+![F2 Score](image_for_report/metric.png)
+
+### The F2 Score for different resolutoin and training type
+![F2 Score](image_for_report/F2.png)
+
+### Some prediction
+![F2 Score](image_for_report/image_used/img76810.png)
