@@ -16,6 +16,8 @@ Special thanks to the Kagglers who participated in the Airbus Vessel Detection C
         - ipywidgets 8.0.5 (if using Jupyter Notebook)
     - tqdm 4.65.0
     - Pandas 1.4.1
+    - torchvision 0.12.0+cu113
+    - torch 1.11+cu113
 
 ## How to download dataset
 Open the terminal and type:
