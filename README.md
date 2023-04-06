@@ -19,12 +19,17 @@ Special thanks to the Kagglers who participated in the Airbus Ship Detection Cha
     - torchvision 0.12.0+cu113
     - torch 1.11+cu113
 
-## How to download dataset
+## How to download dataset and some note
 Open the terminal and type:
 ```pip install kaggle```
 
-Once installed, type:
+Once installed, type the line of code to downlaod the dataset:
 ```kaggle datasets download -d panlogic/ship-data -p ./ship-data```
+
+This line of code to download the pretrained models:
+```kaggle datasets download -d panlogic/pretrained-model-airbus-shipdetection```
+
+Note: PLEASE some file path need to be edit mannually to fit your coding environment.
 
 ## File Demonstration
 - Data Preprocessing: Reduce the amount of original dataset to a smaller amount
