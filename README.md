@@ -29,7 +29,7 @@ Once installed, type the line of code to downlaod the dataset:
 This line of code to download the pretrained models:
 ```kaggle datasets download -d panlogic/pretrained-model-airbus-shipdetection -p ./Pretrained_model```
 
-Note: PLEASE some file path need to be edit mannually to fit your coding environment.
+Note: PLEASE NOTE THAT some file path need to be edit mannually to fit your coding environment.
 
 ## File Demonstration
 - Data Preprocessing: Reduce the amount of original dataset to a smaller amount
