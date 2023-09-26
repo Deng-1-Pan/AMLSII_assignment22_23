@@ -1,4 +1,4 @@
-# AMLSII_assignment22_23
+# Deep Learning‑Based Ship Detection in Satellite Images: Impact of Image Resolution and Resource Constraints
 
 ## Abstract
 This report presents a deep learning-based ship detection model using satellite images. The model uses the U-Net architecture with a ResNet34 as the encoder and transfer learning for efficient feature extraction and segmentation. The report investigates the impact of image resolution and resource constraints on the model's performance. The cross-entropy loss, Dice coefficient and Intersection over Union (IoU) metrics are used to evaluate the model during training and validation. In contrast, the F2 Score is used to evaluate the test set. The results show that the model performs well under resource constraints, with only a 3% reduction in performance compared to the unconstrained case. Higher resolution images perform better on the test set evaluation, despite lower Dice and IoU scores during training.
